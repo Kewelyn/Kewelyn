@@ -1,5 +1,6 @@
 ### Olá! Seja bem vindo(a) 🖐️ 👋
-💻🎓 - Atualmente cursando Sistemas de Informação
+💻🎓 - Graduada em Sistemas de Informação
+💻🎓 - Pós graduanda em Engenharia de Software
 
 <!-- ![Kewelyn GitHub stats](https://github-readme-stats.vercel.app/api?username=Kewelyn&show_icons=true&theme=dark&count_private=true) -->
 
